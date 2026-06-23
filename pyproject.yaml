@@ -1,0 +1,6 @@
+python: "3.12"
+build_dependencies:
+  - pip
+  - uv
+dependencies:
+  - -r requirements.txt
